@@ -1,1 +1,1 @@
-This is a project to experiment with C# and Git.
+This is a project to experiment with C# and Git with little excercises.
